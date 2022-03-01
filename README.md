@@ -1,0 +1,2 @@
+# welcome
+Discord Welcome bot
